@@ -2,7 +2,8 @@ eci\arep\FirstApp.class
 eci\arep\HttpServer.class
 eci\arep\HelloController.class
 eci\arep\Foo.class
-eci\arep\Test.class
 eci\arep\RequestMapping.class
 eci\arep\RunTest.class
 eci\arep\InvokeMain.class
+eci\arep\Test.class
+eci\arep\Component.class
